@@ -1,5 +1,9 @@
 # Flutter Firebase Authentication Example
 
+
+
+[working.webm](https://github.com/yagyansh181/Firebase-Auth/assets/78612542/2ddc2800-854d-443c-8bb2-3aca07d052f5)
+
 This is a simple Flutter app demonstrating user authentication using Firebase Authentication.
 
 ## Features
@@ -25,6 +29,5 @@ Before running the app, ensure that you have:
    ```bash
    git clone https://github.com/your-username/flutter_firebase_auth.git
    cd flutter_firebase_auth
-   
-   [working.webm](https://github.com/yagyansh181/Firebase-Auth/assets/78612542/2ddc2800-854d-443c-8bb2-3aca07d052f5)
+
 

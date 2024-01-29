@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253231283087",
+    "project_id": "faym-assignment",
+    "storage_bucket": "faym-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253231283087:android:4802f8e609623ca96b69fa",
+        "android_client_info": {
+          "package_name": "com.example.faym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxjcGMeG-_VRyua6bC2vLEUPYj56XHO5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
